@@ -1,6 +1,7 @@
 # I'm MD.Rayhan khan 👨‍💻
 <a href="https://www.facebook.com/mohammad.rayhan.827" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.linkedin.com/in/rayhun-khan-385877145/" target="_blank"><img src="https://i.postimg.cc/FF8rPskr/70-701692-python-programming-logo-python-programming-language-png.jpg" alt="Facebook"></a>
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Rayhun27)](https://twitter.com/Rayhun27)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11375431/mohammad-rayhun?tab=profile)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Rayhun/)](https://github.com/Rayhun/)
 

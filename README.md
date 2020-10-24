@@ -16,9 +16,9 @@ I'm a software engineer who is passionate about Programming💻. I'm Experienced
 <code><img height="50" src="https://camo.githubusercontent.com/66a1645d7bba4fb68b45ecb54d914787c6c61fb1/68747470733a2f2f6173736574732e676574706f73746d616e2e636f6d2f636f6d6d6f6e2d73686172652f706f73746d616e2d6c6f676f2d686f72697a6f6e74616c2d333230783133322e706e67"></code>
 ## About me
 
-:heart: Programming | ✈️ traveling
+👨‍💻 Programming | ✈️ traveling | ⚽ Playing
 
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning python , django
 - 📫 How to reach me: sent me email.
 
 

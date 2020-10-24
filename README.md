@@ -5,7 +5,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11375431/mohammad-rayhun?tab=profile)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Rayhun/)](https://github.com/Rayhun/)
 
-I'm a software engineer who is passionate about Programming💻. I'm Experienced with all stages of the development cycle for dynamic web applications. Well-versed in numerous programming languages and databases.
+I'm a software engineer who is passionate about Programming💻. I'm Experienced with all stages of the development cycle for dynamic web applications. Well-versed in numerous programming languages and databases. 
 
 ## Languages And Tools
 

@@ -25,10 +25,7 @@ I'm a software engineer who is passionate about Programming💻. I'm Experienced
 - 📫 How to reach me: sent me email.
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=sajib1066&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sajib1066&layout=compact)
-<img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajib1066" alt="sajib1066" />
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sajib1066)  
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=Rayhun&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Rayhun&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhun&layout=compact)
+<img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rayhun" alt="sajib1066" />
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rayhun)  

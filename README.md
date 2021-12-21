@@ -1,5 +1,3 @@
-<a href="https://github.com/rayhun"><img width="100%" height="auto" src="img.jpg" /></a>
-
 <a href="https://www.facebook.com/mohammad.rayhun.827" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Druvo100/)](https://twitter.com/rayhun27/)
 <a href="https://www.linkedin.com/in/rayhun-khan-385877145/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -19,17 +17,14 @@ Experienced in developing and implementing <a href="https://www.google.com/searc
 ​
 def skills():
     languages = { 
-        "Python", "C#", "Javascript"
+        "Python", "Javascript"
     }
     frontend = { 
-        "HTML", "CSS", "XAML",
-        "XML", "JSON"
+        "HTML", "CSS", "Vue.js", "JSON"
     }
     frameworks = { 
         "Django","Django Rest Framework", 
-        "ASP.NET MVC", "Bootstrap",
-        "Entity Framework", "WPF", "WCF",
-        "WinForms", "Windows Service"
+        "Bootstrap", "bulma"
     }
     databases = { 
         "MS SQL", "Postgres SQL", 
@@ -38,9 +33,7 @@ def skills():
     tools = {
         "VS code", "pycharm","Postman", 
         "SoapUI", "Github", "pycharm", 
-        "Oracle VM Virtualbox", "AWS",
-        "MySQL workbench", "puTTy", "IIS",
-        "SQL server management studio",
+        "AWS",
         
     }     
     

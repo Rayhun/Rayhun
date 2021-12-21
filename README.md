@@ -1,4 +1,4 @@
-<a href="https://github.com/druvo"><img width="100%" height="auto" src="img.jpg" /></a>
+<a href="https://github.com/rayhun"><img width="100%" height="auto" src="img.jpg" /></a>
 
 <a href="https://www.facebook.com/mohammad.rayhun.827" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Druvo100/)](https://twitter.com/rayhun27/)
@@ -75,7 +75,7 @@ def skills():
 </td>
 <td>
       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=druvo&langs_count=10&hide_border=true&theme=vision-friendly-dark)](https://github.com/druvo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhun&langs_count=10&hide_border=true&theme=vision-friendly-dark)](https://github.com/rayhun/github-readme-stats)
 
 
 </td>

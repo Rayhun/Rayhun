@@ -86,7 +86,7 @@ print(skills());
 
 
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<a href="https://github.com/Rayhun/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=rayhun">
 </a>
 

@@ -68,7 +68,7 @@ print(skills());
 ![Rayhan's github stats](https://github-readme-stats.vercel.app/api?username=rayhun&show_icons=true&hide_border=true&theme=vision-friendly-dark)
 
 
-<img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=druvo&hide_border=true&theme=vision-friendly-dark" alt="rayhun">   
+<img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhun&hide_border=true&theme=vision-friendly-dark" alt="rayhun">   
 
 </td>
 <td>
@@ -86,8 +86,8 @@ print(skills());
 
 
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<a href="https://github.com/Rayhun">
     <img src="https://komarev.com/ghpvc/?username=rayhun">
 </a>
 
-[![GitHub followers](https://img.shields.io/github/followers/druvo?label=Follow&style=social)](https://github.com/rayhun) 
+[![GitHub followers](https://img.shields.io/github/followers/rayhun?label=Follow&style=social)](https://github.com/rayhun) 

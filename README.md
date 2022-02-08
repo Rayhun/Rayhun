@@ -73,7 +73,7 @@ print(skills());
 </td>
 <td>
       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhun&langs_count=5&hide_border=true&theme=vision-friendly-dark)](https://github.com/rayhun/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhun&langs_count=5&hide_border=true&theme=vision-friendly-dark)](https://github.com/rayhun/)
 
 
 </td>
